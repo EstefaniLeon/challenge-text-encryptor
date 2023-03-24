@@ -75,6 +75,9 @@ _To use this project you will need to clone this repository or download it to yo
 - [HTML DOM style display property](https://www.w3schools.com/jsref/prop_style_display.asp)
 - [Interact with the clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard)
 - [Using Github Pages](https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/Using_Github_pages)
+- [Curso de Lógica de programación: Primeros pasos](https://www.aluracursos.com/curso-online-logica-de-programacion-primeros-pasos)
+- [Curso de Lógica de programación: Conceptos primordiales](https://www.aluracursos.com/curso-online-logica-de-programacion-conceptos-primordiales)
+- [Curso de Git y GitHub: controle y comparta su código](https://www.aluracursos.com/curso-online-git-github-control-version)
 
 <!-- CONTACT -->
 
